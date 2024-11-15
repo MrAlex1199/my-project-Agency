@@ -1,5 +1,5 @@
 import Header from "./components/header";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const iconBlocks = [
   { title: "Creative minds", icon: <rect width="18" height="10" x="3" y="11" rx="2" /> },
