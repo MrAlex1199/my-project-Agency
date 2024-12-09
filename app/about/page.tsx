@@ -9,7 +9,7 @@ export default function about() {
             <div className="bg-neutral-900">
                 <div className="max-w-5xl mx-auto px-4 xl:px-0 pt-24 lg:pt-32 pb-24">
                     <h1 className="font-semibold text-white text-5xl md:text-6xl">
-                        <span className="text-[#ff0] ">About US</span> Transforming ideas into reality
+                        <span className="text-[#99cc00] ">About US</span> Transforming ideas into reality
                     </h1>
                     <div className="max-w-4xl">
                         <p className="mt-5 text-neutral-400 text-lg">

@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "PlanetPlantPP",
-  description: "Plants Ready to plant ",
+  description: "Ready to Plants",
   icons: {
     shortcut: "favicon.ico",
   },

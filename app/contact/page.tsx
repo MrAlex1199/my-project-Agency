@@ -38,7 +38,7 @@ export default function contact() {
                                         <svg className="shrink-0 size-5 text-gray-500 dark:text-neutral-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg>
                                         <div className="grow">
                                             <p className="text-sm text-gray-600 dark:text-neutral-400">
-                                                United Kingdom
+                                                Thailand TH
                                             </p>
                                             <address className="mt-1 text-black not-italic dark:text-white">
                                                 300 Bath Street, Tay House<br/>

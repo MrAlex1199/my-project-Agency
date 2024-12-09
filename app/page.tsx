@@ -12,7 +12,7 @@ export default function Home() {
       <Hero />
       <Stories />
       <BoxIcon />
-      <Faq/>
+      <Faq />
       <Footer />
     </div>
   );
